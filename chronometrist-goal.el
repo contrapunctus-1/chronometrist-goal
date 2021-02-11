@@ -7,7 +7,7 @@
 ;; Package-Requires: ((emacs "25.1") (alert "1.2") (chronometrist "0.6.0"))
 ;; Version: 0.2.1
 
-(require 'chronometrist-queries)
+(require 'chronometrist)
 (require 'alert)
 
 ;; This is free and unencumbered software released into the public domain.
